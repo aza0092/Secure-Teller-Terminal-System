@@ -1,6 +1,6 @@
 # Secure Teller Terminal System - C++ based software
 
-![main screen](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/rsz_atm.jpg)
+![main screen](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/rsz_1atm.jpg)
 
 ## Description
 
