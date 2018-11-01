@@ -4,9 +4,18 @@
 
 ## Description
 
-The Get Bit! card game is a survival game. Players are placed on orders based on drawn cards, and the player who is in the last order get bitten by the shark and loses a limb and then is placed in front of the line. Players who eventually lose all their limbs die. The player who has the most limbs (highest health) after there is only two players is the winner of the game.
+The teller terminal system comprises of multiple branches where each account contains a unique account number, a balance, as well as other important information.
 
-Before the start of the game, the player can set the bot difficulty (easy - meduim - hard). The game also keeps track of each player's health, position, and card color (Blue - Yellow - Green - Gray). Also, players can check instructions from the help dropdown menu.
+In this system, there are two types of users – system administrators and branch staff. Any system administrator can add a new branch staff member to access the system or delete existing staff members from the system.
+
+The system authenticates each access request to the system. Also, the teller terminal is either in the idle state or the active state.
+
+In the Idle State: displays a login menu. It invites a branch employee to enter a userid and password and either (i) to manage client and account information or (ii) add/delete a user (branch staff) if the user is a system administrator or (iii) to change his/her password. In all the cases, the information provided is checked for validity. If the user name and password are valid, then the teller terminal system is placed in the active state and a session is started.
+
+In Active State: For system administrators, the teller terminal displays a “System Administration” main menu that invites an administrator to manage information of branch staff members, clients, and accounts or change password. For branch staff, the teller displays a “Branch Staff” main menu that invites a branch staff member to manage client and account information or change password.
+
+The system also includes the following main functionalities: display appropriate options for admins/branch staff/clients - change/mask passwords/ create default passwords for admin - display/delete branch staff - add client/edit/delete/save their info - manage client's account/withdraw & deposit
+
 
 ## Technical 
 - `Card` stores the value (health) of the card which is linked to a player. 
