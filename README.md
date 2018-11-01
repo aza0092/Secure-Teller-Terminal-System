@@ -16,18 +16,14 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 
 
 ## Technical 
-- `Card` stores the value (health) of the card which is linked to a player. 
-- `CharacterAI` makes an abstraction for new AI player for the game.
-- `DifficultCharacterAI` creates a new AI player for the game with a hard difficulty. This puts the human player in the last position in the first round to put them at a disadvantage health-wise.
-- `MediumCharacterAI` creates a new AI player for the game with a meduim difficulty. This puts the human player 3 positions behind in the first round to put them at a disadvantage health-wise.
-- `EasyCharacterAI` creates a new AI player for the game with an easy difficulty. This puts the human player at any position randomly without a disadvantage health-wise.
-- `Form1` draws the template of the game and includes the main functionalities (update health, change positions, check last position, move players, draw cards, indicate a dead player).- `Form1` draws the template of the game and includes the main functionalities (update health, change positions, check last position, move players, draw cards, indicate a dead player).
-- `Form2` used to start a new game when the initial game ends.
-- `IGameObject` used to link graphics to the card face.
-- `Player` used to hold info for the human player (health, position, card chosen, check death).
-- `Shark` used to damage the player's health when they are in the last position of the card set.
-- `Unit` used to link cards' colors.
-
+- `Account` holds and manages accounts info for a client. 
+- `AdminAndBranch` holds functionalities for admin and branch staff.
+- `Client` holds and manages client's info.
+- `Main` displays the menus for the terminal and takes input from user.
+- `Menu` creates the menus for the different user roles.
+- `account-info.txt` stores account info for a client (account number - account type - balance).
+- `client-info.txt` stores clients info (name - address - SSN- Employer - Employer).
+- `staff.txt` used store admin and branch staff info (role - ID - name).
 
 ## Images
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/startGame.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/botDifficulty.png) |
