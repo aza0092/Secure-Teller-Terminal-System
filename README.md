@@ -27,7 +27,7 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 
 ## Images
 | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/admin_login.PNG) | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/branch_login.PNG) |
-|:---:|
+|:---:|:---:|
 | Admin login and options available for this role  | Branch Staff login and options available for this role   |
 
 
