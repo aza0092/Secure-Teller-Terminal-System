@@ -42,9 +42,9 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 
 
 
-| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/health.PNG) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/status.PNG) |
-|:---:|:---:|
-| Players' heatlh updates after every round | Players' statuses updates after every round |
+| ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/display_staff.PNG) |
+|:---:|
+| Display all existing admin and staff in the system |
 
 
 
