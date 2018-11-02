@@ -31,14 +31,9 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 | Admin login and options available for this role  | Branch Staff login and options available for this role   |
 
 
-| ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/branch_login.PNG) |
-|:---:|
-| Branch Staff login and options available for this role |
-
-
-| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardColors.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardSets.PNG) |
+| ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_client.PNG) | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_account.PNG) |
 |:---:|:---:|
-| Colors of cards in the game and the shark | Card sets options to choose from each round(1-7) |
+| Add a new Client to ther teller system | Add a new account to an existing Client) |
 
 
 
