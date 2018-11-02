@@ -31,9 +31,14 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 | Admin login and options available for this role  | Branch Staff login and options available for this role   |
 
 
-| ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_client.PNG) | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_account.PNG) |
-|:---:|:---:|
-| Add a new Client to ther teller system | Add a new account to an existing Client) |
+| ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_client.PNG) |
+|:---:|
+| Add a new Client to ther teller system |
+
+
+|![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_account.PNG) |
+|:---:|
+| Add a new account to an existing Client |
 
 
 
