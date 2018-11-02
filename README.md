@@ -31,9 +31,11 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 | Admin login and options available for this role  | Branch Staff login and options available for this role   |
 
 
+
 | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_client.PNG) |
 |:---:|
 | Add a new Client to ther teller system |
+
 
 
 |![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/add_new_account.PNG) |
@@ -51,9 +53,3 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/client_options.PNG) |
 |:---:|
 | All the options available to assist a Client |
-
-
-
-| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/healthDead.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/winner.png) |
-|:---:|:---:|
-| dead player indicated | winner annoucned at end of game (player with highest health)|
