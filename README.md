@@ -44,13 +44,13 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 
 | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/display_staff.PNG) |
 |:---:|
-| Display all existing admin and staff in the system |
+| All options available for an admin (shown: display all existing admin and staff in the system |
 
 
 
-| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/limbs.PNG) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/dead.PNG) |
-|:---:|:---:|
-| players losing limb when getting in last position | player who lost all their limb no longer in the game (card removed ) |
+| ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/client_options.PNG) |
+|:---:|
+| All the options available to assist a Client |
 
 
 
