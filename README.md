@@ -26,9 +26,9 @@ In Active State: For system administrators, the teller terminal displays a “Sy
 - `staff.txt` used store admin and branch staff info (role - ID - name).
 
 ## Images
-| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/startGame.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/botDifficulty.png) |
+| ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/admin_login.PNG) | ![](https://github.com/aza0092/Secure-Teller-Terminal-System/blob/master/src/media/branch_login.PNG) |
 |:---:|:---:|
-| Start Game  | Bot difficulty Options |
+| Admin login and options available for this role  | Branch Staff login and options available for this role   |
 
 
 
